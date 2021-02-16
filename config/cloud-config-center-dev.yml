@@ -2,4 +2,4 @@ data:
   env: springCloudLearn
   user:
     username: eureka-client-user
-    password: 1291029102
+    password: 11111
